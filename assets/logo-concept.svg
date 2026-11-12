@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" aria-label="Krishna concept logo">
+  <rect width="128" height="128" rx="34" fill="#2D5978"/>
+  <path d="M64 22c13 0 16 12 16 22 8-7 19-10 26-2 8 9 3 21-9 28 11 7 13 18 5 26-8 9-21 5-29-3-4 12-13 18-24 15-10-3-14-15-10-26-12 2-23-5-23-16 0-11 10-18 22-17-5-11-2-22 8-26 7-3 14-1 18 4Z" fill="#A9E5F1"/>
+  <path d="M43 68c10-9 20-9 21-9s12 0 21 9v22c-8-5-15-7-21-7s-14 2-21 7V68Z" fill="#fff"/>
+  <path d="M64 60v23M43 67c10-7 19-7 21-7 4 0 12 1 21 8" stroke="#2D5978" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="91" cy="35" r="12" fill="#EF625C"/>
+  <path d="m90.5 28 1.4 4.6 4.7 1.4-4.7 1.5-1.4 4.7-1.4-4.7-4.6-1.5 4.6-1.4 1.4-4.6Z" fill="#fff"/>
+</svg>
